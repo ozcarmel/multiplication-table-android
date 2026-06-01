@@ -32,6 +32,11 @@ English: `Multiplication Made Easy`
 
 ## Store Listing Draft
 
+Full listing drafts are now stored in:
+
+- `store-listing/he-IL.md`
+- `store-listing/en-US.md`
+
 ### Short Description
 
 Hebrew-first multiplication table practice for kids, with interactive learning and answer checking.
@@ -72,6 +77,13 @@ The app is designed for children from 3rd grade through 8th grade, with Hebrew a
 - Upload to internal testing first.
 - Test install from Play internal testing.
 - Promote to production after review.
+
+## Prepared Files
+
+- `privacy-policy.md`
+- `store-listing/data-safety-answers.md`
+- `store-listing/he-IL.md`
+- `store-listing/en-US.md`
 
 ## Official References
 

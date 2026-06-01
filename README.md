@@ -73,3 +73,9 @@ The app cannot be uploaded to Google Play from here without:
 
 See [PLAY_STORE_RELEASE.md](PLAY_STORE_RELEASE.md) for the release checklist and listing draft.
 
+## Prepared Store Materials
+
+- [Hebrew listing](store-listing/he-IL.md)
+- [English listing](store-listing/en-US.md)
+- [Data Safety draft answers](store-listing/data-safety-answers.md)
+- [Privacy Policy](privacy-policy.md)
